@@ -4,4 +4,4 @@ a fair restaurant check management algorithm for distributing tips utilizing loo
 
 kyle f, jacob n, joey m
 
-Java intelliJ
+Java on intelliJ
